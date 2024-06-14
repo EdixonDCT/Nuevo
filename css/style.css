@@ -32,7 +32,22 @@ p > span{
     margin: 10px 100 10px 100px;
     outline: solid 10px peru
 }
-
+header > nav > ul > a{
+    font-size: 100px;
+    color: white;
+    background: red;
+    text-decoration: none;
+    width: 200px;
+    height: 200px;
+    text-transform: capitalize;
+    padding: 30px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    border-radius: 100%;
+    place-content: center;
+    border: solid white 12px;
+}
 /*
 hr {
     margin-top: 20px;

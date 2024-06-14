@@ -45,7 +45,7 @@ a{
     border-radius: 100%;
     place-content: center;
     border: dotted white 12px;
-    box-shadow: 10px 100px 100px #bb7777;
+    box-shadow: 10px 100px 100px #ac5e5e;
 }
 /* la especificidad de las clases son las siguientes
 selector = 1
