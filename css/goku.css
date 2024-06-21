@@ -16,9 +16,8 @@
     height: 250px;
     display: block;
     margin: auto;
-    padding: 30px;
-    border-top-right-radius: 35px;
-    border-top-left-radius: 35px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 .box{
     width: 300px;
